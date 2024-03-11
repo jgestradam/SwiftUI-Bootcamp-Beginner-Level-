@@ -11,6 +11,7 @@
 		5D257E212B9F87BB00BFFC60 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D257E202B9F87BB00BFFC60 /* ContentView.swift */; };
 		5D257E232B9F87BC00BFFC60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D257E222B9F87BC00BFFC60 /* Assets.xcassets */; };
 		5D257E262B9F87BC00BFFC60 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D257E252B9F87BC00BFFC60 /* Preview Assets.xcassets */; };
+		5D257E2D2B9F887200BFFC60 /* Adding Text in SwiftUI | Bootcamp #2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D257E2C2B9F887200BFFC60 /* Adding Text in SwiftUI | Bootcamp #2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5D257E202B9F87BB00BFFC60 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5D257E222B9F87BC00BFFC60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D257E252B9F87BC00BFFC60 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5D257E2C2B9F887200BFFC60 /* Adding Text in SwiftUI | Bootcamp #2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Adding Text in SwiftUI | Bootcamp #2.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				5D257E1E2B9F87BB00BFFC60 /* SwiftUI_Bootcamp__Beginner_Level_App.swift */,
+				5D257E2C2B9F887200BFFC60 /* Adding Text in SwiftUI | Bootcamp #2.swift */,
 				5D257E202B9F87BB00BFFC60 /* ContentView.swift */,
 				5D257E222B9F87BC00BFFC60 /* Assets.xcassets */,
 				5D257E242B9F87BC00BFFC60 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D257E212B9F87BB00BFFC60 /* ContentView.swift in Sources */,
+				5D257E2D2B9F887200BFFC60 /* Adding Text in SwiftUI | Bootcamp #2.swift in Sources */,
 				5D257E1F2B9F87BB00BFFC60 /* SwiftUI_Bootcamp__Beginner_Level_App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

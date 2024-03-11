@@ -9,7 +9,14 @@ import SwiftUI
 
 struct Adding_Text_in_SwiftUI___Bootcamp__2: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text("Hello, World! This is the Swiftful Thinking Bootcamp. I am really enjoying this course and learning a lot.")
+              //.font(.body)
+              //.fontWeight(.semibold)
+              //.underline(true, color: Color.red)
+              //.italic()
+              .foregroundColor(.red)
+              .frame(width: 200, height: 100, alignment: .center)
+              .minimumScaleFactor(0.1)
     }
 }
 
