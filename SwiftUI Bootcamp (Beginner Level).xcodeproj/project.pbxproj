@@ -12,6 +12,8 @@
 		5D257E232B9F87BC00BFFC60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D257E222B9F87BC00BFFC60 /* Assets.xcassets */; };
 		5D257E262B9F87BC00BFFC60 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D257E252B9F87BC00BFFC60 /* Preview Assets.xcassets */; };
 		5D257E2D2B9F887200BFFC60 /* Adding Text in SwiftUI | Bootcamp #2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D257E2C2B9F887200BFFC60 /* Adding Text in SwiftUI | Bootcamp #2.swift */; };
+		5DD7F4E42B9FA92B0051B3F9 /* How to use inits and enums in SwiftUI | Bootcamp #13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD7F4E32B9FA92B0051B3F9 /* How to use inits and enums in SwiftUI | Bootcamp #13.swift */; };
+		5DEF99502B9FFB2500D607B7 /* How to use ForEach loops in SwiftUI | Bootcamp #14 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DEF994F2B9FFB2500D607B7 /* How to use ForEach loops in SwiftUI | Bootcamp #14 .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		5D257E222B9F87BC00BFFC60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D257E252B9F87BC00BFFC60 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5D257E2C2B9F887200BFFC60 /* Adding Text in SwiftUI | Bootcamp #2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Adding Text in SwiftUI | Bootcamp #2.swift"; sourceTree = "<group>"; };
+		5DD7F4E32B9FA92B0051B3F9 /* How to use inits and enums in SwiftUI | Bootcamp #13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "How to use inits and enums in SwiftUI | Bootcamp #13.swift"; sourceTree = "<group>"; };
+		5DEF994F2B9FFB2500D607B7 /* How to use ForEach loops in SwiftUI | Bootcamp #14 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "How to use ForEach loops in SwiftUI | Bootcamp #14 .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +58,9 @@
 			isa = PBXGroup;
 			children = (
 				5D257E1E2B9F87BB00BFFC60 /* SwiftUI_Bootcamp__Beginner_Level_App.swift */,
+				5DD7F4E32B9FA92B0051B3F9 /* How to use inits and enums in SwiftUI | Bootcamp #13.swift */,
 				5D257E2C2B9F887200BFFC60 /* Adding Text in SwiftUI | Bootcamp #2.swift */,
+				5DEF994F2B9FFB2500D607B7 /* How to use ForEach loops in SwiftUI | Bootcamp #14 .swift */,
 				5D257E202B9F87BB00BFFC60 /* ContentView.swift */,
 				5D257E222B9F87BC00BFFC60 /* Assets.xcassets */,
 				5D257E242B9F87BC00BFFC60 /* Preview Content */,
@@ -143,6 +149,8 @@
 				5D257E212B9F87BB00BFFC60 /* ContentView.swift in Sources */,
 				5D257E2D2B9F887200BFFC60 /* Adding Text in SwiftUI | Bootcamp #2.swift in Sources */,
 				5D257E1F2B9F87BB00BFFC60 /* SwiftUI_Bootcamp__Beginner_Level_App.swift in Sources */,
+				5DD7F4E42B9FA92B0051B3F9 /* How to use inits and enums in SwiftUI | Bootcamp #13.swift in Sources */,
+				5DEF99502B9FFB2500D607B7 /* How to use ForEach loops in SwiftUI | Bootcamp #14 .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
